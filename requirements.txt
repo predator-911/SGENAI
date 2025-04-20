@@ -1,0 +1,11 @@
+streamlit>=1.25.0
+diffusers>=0.22.0
+torch>=2.1.0
+transformers>=4.35.0
+pillow>=10.2.0
+qrcode>=7.4.2
+scikit-image>=0.22.0
+pycryptodome>=3.20.0  # For AES encryption
+cryptography>=42.0.0  # Fixes missing module issue
+opencv-python>=4.9.0  # Required for watermarking
+numpy>=1.24.0
